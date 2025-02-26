@@ -16,6 +16,8 @@ The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decisi
 
 ## Publications
 
+Extending continuous flow models of immediate decision reports to delayed decision reports (J. Achard, T.  Gajdos, M.Servant), *Journal of Experimental Psychology: General* (2025) [[pdf]](https://hal.science/hal-04940853v1)
+
 
 Making precise movements increases confidence in perceptual decisions (R. Sanchez, A. Courant, A. Desantis, T. Gajdos),  *Cognition* (2024). [[article]](https://authors.elsevier.com/sd/article/S0010-0277(24)00118-5)  [[data & scripts]](https://osf.io/t8mbu/)
 
