@@ -8,20 +8,20 @@ author_profile: true
 ## Preprint
 
 
-Action monitoring boosts perceptual confidence (R. Sanchez, K. Davranche, T. Gajdos, A. Desantis), 2023. [[pdf]](https://www.biorxiv.org/content/10.1101/2023.08.14.553210v1)
-
 High-intensity physical activity enhances cognitive decision processes (K. Davranche, D. Giraud, A. Hays, T. Gajdos), 2023. [[pdf]](https://www.biorxiv.org/content/10.1101/2023.02.14.528466v1)
 
 The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decision Making Models (G. Weindel, T. Gajdos, B. Burle, F.-X. Alario), 2022. [[pdf]](https://psyarxiv.com/gewb3/)
 
 ## Publications
 
+Action monitoring boosts perceptual confidence (R. Sanchez, K. Davranche, T. Gajdos, A. Desantis),  *Journal of Experimental Psychology: General* (2025) [[pdf]](https://www.biorxiv.org/content/10.1101/2023.08.14.553210v1)
+
 Extending continuous flow models of immediate decision reports to delayed decision reports (J. Achard, T.  Gajdos, M.Servant), *Journal of Experimental Psychology: General* (2025) [[pdf]](https://hal.science/hal-04940853v1)
 
 
 Making precise movements increases confidence in perceptual decisions (R. Sanchez, A. Courant, A. Desantis, T. Gajdos),  *Cognition* (2024). [[article]](https://authors.elsevier.com/sd/article/S0010-0277(24)00118-5)  [[data & scripts]](https://osf.io/t8mbu/)
 
-Towards formal models of inhibitory mechanisms involved in motor imagery: A commentary on Bach, Frank, & Kunde (2022) (L. Nalborczyk, M. Longcamp, T. Gajdos, M. Servant, F.-X. Alario), *Psychological Research* (2024). [[pdf]](https://psyarxiv.com/tz6x2/)
+Towards formal models of inhibitory mechanisms involved in motor imagery: A commentary on Bach, Frank, & Kunde (2022) (L. Nalborczyk, M. Longcamp, T. Gajdos, M. Servant, F.-X. Alario), *Psychological Research* (2024). [[pdf]](https://hal.science/hal-03924556)
 
 
 The gated cascade diffusion model: An integrated theory of decision-making, motor preparation, and motor execution
