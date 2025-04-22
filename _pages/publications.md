@@ -20,7 +20,7 @@ Extending continuous flow models of immediate decision reports to delayed decisi
 
 Making precise movements increases confidence in perceptual decisions (R. Sanchez, A. Courant, A. Desantis, T. Gajdos),  *Cognition* (2024). [[article]](https://authors.elsevier.com/sd/article/S0010-0277(24)00118-5)  [[data & scripts]](https://osf.io/t8mbu/)
 
-Towards formal models of inhibitory mechanisms involved in motor imagery: A commentary on Bach, Frank, & Kunde (2022) (L. Nalborczyk, M. Longcamp, T. Gajdos, M. Servant, F.-X. Alario), *Psychological Research* (2024). [[pdf]](https://hal.science/hal-03924556)
+Towards formal models of inhibitory mechanisms involved in motor imagery: A commentary on Bach, Frank, & Kunde (2022) (L. Nalborczyk, M. Longcamp, T. Gajdos, M. Servant, F.-X. Alario), *Psychological Research* (2024). [[pdf]](https://osf.io/preprints/psyarxiv/tz6x2_v1)
 
 
 The gated cascade diffusion model: An integrated theory of decision-making, motor preparation, and motor execution
