@@ -14,10 +14,9 @@ The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decisi
 
 ## Publications
 
-Action monitoring boosts perceptual confidence (R. Sanchez, K. Davranche, T. Gajdos, A. Desantis),  *Journal of Experimental Psychology: General* (2025) [[pdf]](https://www.biorxiv.org/content/10.1101/2023.08.14.553210v1)
+Action monitoring boosts perceptual confidence (R. Sanchez, K. Davranche, T. Gajdos Preuss, A. Desantis),  *Journal of Experimental Psychology: General* (2025) [[pdf]](https://www.biorxiv.org/content/10.1101/2023.08.14.553210v1)
 
-Extending continuous flow models of immediate decision reports to delayed decision reports (J. Achard, T.  Gajdos, M.Servant), *Journal of Experimental Psychology: General* (2025) [[pdf]](https://hal.science/hal-04940853v1)
-
+Extending continuous flow models of immediate decision reports to delayed decision reports (J. Achard, T.  Gajdos Preuss, M.Servant), *Journal of Experimental Psychology: General* (2025) [[pdf]](/assets/papiers/AGPS_2025.pdf)
 
 Making precise movements increases confidence in perceptual decisions (R. Sanchez, A. Courant, A. Desantis, T. Gajdos),  *Cognition* (2024). [[article]](https://authors.elsevier.com/sd/article/S0010-0277(24)00118-5)  [[data & scripts]](https://osf.io/t8mbu/)
 
@@ -25,11 +24,12 @@ Towards formal models of inhibitory mechanisms involved in motor imagery: A comm
 
 
 The gated cascade diffusion model: An integrated theory of decision-making, motor preparation, and motor execution
-(E. Dendauw, N. Evans, G. Logan, E. Haffen, D. Bennabi, T. Gajdos, M. Servant), *Psychological Review*  (2024).[[pdf]](https://psyarxiv.com/dxsjh/) [[data & scripts]](https://osf.io/4unw6/)
+(E. Dendauw, N. Evans, G. Logan, E. Haffen, D. Bennabi, T. Gajdos, M. Servant), *Psychological Review*  (2024).[[pdf]]((/assets/papiers/PR_2024.pdf) [[data & scripts]](https://osf.io/4unw6/)
 
-How overconfidence bias influences suboptimality in perceptual decision making (M. Hainguerlot, T. Gajdos, J.-C. Vergnaud, V. de Gardelle) *Journal of Experimental Psychology: Human Perception and Performance* (2023). [[pdf]](/assets/papiers/Hainguerlot2022.pdf) [[data & scripts]](https://osf.io/4qw9e/?view_only=48bae1de632c4ff895cfa49743b41dfa)
+How overconfidence bias influences suboptimality in perceptual decision making (M. Hainguerlot, T. Gajdos, J.-C. Vergnaud, V. de Gardelle) *Journal of Experimental Psychology: Human Perception and Performance* (2023). [[pdf]](/assets/papiers/HGVG_2023.pdf) [[data & scripts]](https://osf.io/4qw9e/?view_only=48bae1de632c4ff895cfa49743b41dfa)
 
-An integrated theory of deciding and acting (M. Servant, G. D. Logan, T. Gajdos, N. Evans) *Journal of Experimental Psychology: General* (2021). [[pdf]](/assets/papiers/dtdm.pdf) [[data & scripts]](https://osf.io/r5c2b/)
+An integrated theory of deciding and acting (M. Servant, G. D. Logan, T. Gajdos, N. Evans) *Journal of Experimental Psychology: General* (2021). [[pdf]](/assets/papiers/ServantLoganGajdosEvans2021.pdf) [[data & scripts]](https://osf.io/r5c2b/)
+
 
 Tailored recommendations (E. Danan, T. Gajdos, J.-M. Tallon),  *Social Choice and Welfare* (2021). [[pdf]](/assets/papiers/DananGajdosTallon2021.pdf)
 
