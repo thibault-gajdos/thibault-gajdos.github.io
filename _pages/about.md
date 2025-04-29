@@ -16,3 +16,10 @@ UMR7077\
 Bâtiment 9 Case D\
 3, place Victor Hugo\
 13331 Marseille Cedex 3
+
+
+---
+
+<div style="text-align: center; font-style: italic; margin-top: 2em;">
+  {{ site.homepage_quote }}
+</div>
