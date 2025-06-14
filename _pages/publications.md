@@ -14,7 +14,7 @@ The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decisi
 
 ## Publications
 
-Action monitoring boosts perceptual confidence (R. Sanchez, K. Davranche, T. Gajdos Preuss, A. Desantis),  *Journal of Experimental Psychology: General* (2025) [[pdf]](https://www.biorxiv.org/content/10.1101/2023.08.14.553210v1)
+Action Planning Modulates Perceptual Confidence Through Action Monitoring Processes (R. Sanchez, K. Davranche, T. Gajdos Preuss, A. Desantis),  *Journal of Experimental Psychology: General* (2025) [[pdf]](/assets/papiers/sanchez2025.pdf)
 
 Extending continuous flow models of immediate decision reports to delayed decision reports (J. Achard, T.  Gajdos Preuss, M.Servant), *Journal of Experimental Psychology: General* (2025) [[pdf]](/assets/papiers/AGPS_2025.pdf)
 
