@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Preprint
-Integrating explicit reliability for optimal choices: effect of trustworthiness on decisions and metadecisions (K. Ota, A. Ciston, P. Haggard, T. Gajdos Preuss, L.\ Charles), 2025. [[pdf]](https://www.biorxiv.org/content/10.1101/2025.01.12.632598v4) 
+Integrating explicit reliability for optimal choices: effect of trustworthiness on decisions and metadecisions (K. Ota, A. Ciston, P. Haggard, T. Gajdos Preuss, L. Charles), 2025. [[pdf]](https://www.biorxiv.org/content/10.1101/2025.01.12.632598v4) 
 
 High-intensity physical activity enhances cognitive decision processes (K. Davranche, D. Giraud, A. Hays, T. Gajdos), 2023. [[pdf]](https://www.biorxiv.org/content/10.1101/2023.02.14.528466v1)
 
