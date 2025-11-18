@@ -6,17 +6,21 @@ author_profile: true
 ---
 
 ## Preprint
-Integrating explicit reliability for optimal choices: effect of trustworthiness on decisions and metadecisions (K. Ota, A. Ciston, P. Haggard, T. Gajdos Preuss, L. Charles), 2025. [[pdf]](https://www.biorxiv.org/content/10.1101/2025.01.12.632598v4) 
 
-High-intensity physical activity enhances cognitive decision processes (K. Davranche, D. Giraud, A. Hays, T. Gajdos), 2023. [[pdf]](https://www.biorxiv.org/content/10.1101/2023.02.14.528466v1)
+
+
+Integrating explicit reliability for optimal choices: effect of trustworthiness on decisions and metadecisions (K. Ota, A. Ciston, P. Haggard, T. Gajdos Preuss, L. Charles), 2025. [[pdf]](https://www.biorxiv.org/content/10.1101/2025.01.12.632598v4) 
 
 The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decision Making Models (G. Weindel, T. Gajdos, B. Burle, F.-X. Alario), 2022. [[pdf]](https://psyarxiv.com/gewb3/)
 
 ## Publications
+	
+The Impact of Acute High-Intensity Activity on Perceptual Decision-Making Dynamics (K. Davranche , D. Giraud, A. Hays, T. Gajdos Preuss), 
+*Cognitive, Affective, and Behavioral Neuroscience* , Special Issue/Neuroscience of Effort (in press)  [[article]](https://hal.science/hal-05358060v1) [[data & script]](https://zenodo.org/records/17447883)
 
-Action Planning Modulates Perceptual Confidence Through Action Monitoring Processes (R. Sanchez, K. Davranche, T. Gajdos Preuss, A. Desantis),  *Journal of Experimental Psychology: General* (2025) [[pdf]](/assets/papiers/sanchez2025.pdf)
+Action Planning Modulates Perceptual Confidence Through Action Monitoring Processes (R. Sanchez, K. Davranche, T. Gajdos Preuss, A. Desantis),  *Journal of Experimental Psychology: General* (2025) [[pdf]](/assets/papiers/sanchez2025.pdf) [[data & scripts]](https://osf.io/sb45z)
 
-Extending continuous flow models of immediate decision reports to delayed decision reports (J. Achard, T.  Gajdos Preuss, M.Servant), *Journal of Experimental Psychology: General* (2025) [[pdf]](/assets/papiers/AGPS_2025.pdf)
+Extending continuous flow models of immediate decision reports to delayed decision reports (J. Achard, T.  Gajdos Preuss, M.Servant), *Journal of Experimental Psychology: General* (2025) [[pdf]](/assets/papiers/AGPS_2025.pdf) [[data & scripts]](https://osf.io/vf95p/)
 
 Making precise movements increases confidence in perceptual decisions (R. Sanchez, A. Courant, A. Desantis, T. Gajdos),  *Cognition* (2024). [[article]](https://authors.elsevier.com/sd/article/S0010-0277(24)00118-5)  [[data & scripts]](https://osf.io/t8mbu/)
 
