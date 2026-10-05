@@ -14,6 +14,12 @@ Integrating explicit reliability for optimal choices: effect of trustworthiness 
 The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decision Making Models (G. Weindel, T. Gajdos, B. Burle, F.-X. Alario), 2022. [[pdf]](https://psyarxiv.com/gewb3/)
 
 ## Publications
+
+Motor precision shapes information seeking in perceptual decisions (Loretani, A., Bédé C., Gajdos Preuss T., Desantis, A.), *Psychonomic Bulletin & Review* (in press).
+
+How does explicit reliability guide choices? Effect of trustworthiness on choice and metacognition (Ota, K., Ciston, A., Haggard, H., Gajdos Preuss, T., Charles L.), *Plos Computational Biology* (in press)
+
+Separating decision and motor contributions to behavioral biases induced by manipulating stimulus probability (Dendauw, E., Logan, G. D., Schall, J. D., Gajdos Preuss, T., Servant, M.), *Cognitive Psychology* (2026) [[article]](https://authors.elsevier.com/sd/article/S0010-0285(26)00038-1)  [[data & scripts]](https://osf.io/8z3nj) 
 	
 The Impact of Acute High-Intensity Activity on Perceptual Decision-Making Dynamics (K. Davranche , D. Giraud, A. Hays, T. Gajdos Preuss), 
 *Cognitive, Affective, and Behavioral Neuroscience* , Special Issue/Neuroscience of Effort (in press)  [[article]](https://hal.science/hal-05358060v1) [[data & script]](https://zenodo.org/records/17447883)
