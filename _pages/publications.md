@@ -5,19 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Preprint
-
-
-
-Integrating explicit reliability for optimal choices: effect of trustworthiness on decisions and metadecisions (K. Ota, A. Ciston, P. Haggard, T. Gajdos Preuss, L. Charles), 2025. [[pdf]](https://www.biorxiv.org/content/10.1101/2025.01.12.632598v4) 
-
-The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decision Making Models (G. Weindel, T. Gajdos, B. Burle, F.-X. Alario), 2022. [[pdf]](https://psyarxiv.com/gewb3/)
-
 ## Publications
 
 Motor precision shapes information seeking in perceptual decisions (Loretani, A., Bédé C., Gajdos Preuss T., Desantis, A.), *Psychonomic Bulletin & Review* (in press).
 
-How does explicit reliability guide choices? Effect of trustworthiness on choice and metacognition (Ota, K., Ciston, A., Haggard, H., Gajdos Preuss, T., Charles L.), *Plos Computational Biology* (in press)
+How does explicit reliability guide choices? Effect of trustworthiness on choice and metacognition (Ota, K., Ciston, A., Haggard, H., Gajdos Preuss, T., Charles L.), *Plos Computational Biology* (2026) [[article]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014818) [[data & scripts]](https://osf.io/2c6hy/overview)
 
 Separating decision and motor contributions to behavioral biases induced by manipulating stimulus probability (Dendauw, E., Logan, G. D., Schall, J. D., Gajdos Preuss, T., Servant, M.), *Cognitive Psychology* (2026) [[article]](https://authors.elsevier.com/sd/article/S0010-0285(26)00038-1)  [[data & scripts]](https://osf.io/8z3nj) 
 	
@@ -106,3 +98,8 @@ Perception des probabilités et décision, (T. Gajdos, E. Langlais), *Risques*, 
 Les fondements axiomatiques de la mesure normative des inégalités, *Revue d’Economie Politique*, n°5, pp. 683-720 (2001). [[pdf]](/assets/papiers/Gajdos2000.prd)
 
 L’attitude des Français à l’égard des inégalités à la lumière du système de prélèvements socio-fiscal,  (T. Gajdos, B. Lhommeau), *Economie et Prévision*, n°142, pp. 47-65 (2000). [[pdf]](/assets/papiers/)
+
+
+## Preprint
+
+The Decisive Role of Non-Decision Time for Interpreting the Parameters of Decision Making Models (G. Weindel, T. Gajdos, B. Burle, F.-X. Alario), 2022. [[pdf]](https://psyarxiv.com/gewb3/)
