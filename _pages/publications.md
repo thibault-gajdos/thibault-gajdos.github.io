@@ -7,6 +7,8 @@ author_profile: true
 
 ## Publications
 
+Testing a secondary motor integration account of confidence computation (Garnier-Allain, A., de Gardelle, V., Gajdos Preuss, T., Servant, M.), *Cognition* (in press).
+
 Motor precision shapes information seeking in perceptual decisions (Loretani, A., Bédé C., Gajdos Preuss T., Desantis, A.), *Psychonomic Bulletin & Review* (in press).
 
 How does explicit reliability guide choices? Effect of trustworthiness on choice and metacognition (Ota, K., Ciston, A., Haggard, H., Gajdos Preuss, T., Charles L.), *Plos Computational Biology* (2026) [[article]](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1014818) [[data & scripts]](https://osf.io/2c6hy/overview)
